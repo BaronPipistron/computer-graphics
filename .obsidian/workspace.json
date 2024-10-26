@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "5624ac805b9e485c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5572737fe29982ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed3bd5a6afe02b14",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "970f57379d38ff09",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8672558328e7377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc31a22d82ab1d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bad2fa2effaa3338",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d14c3d678bcc2747",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bc93f8333224b827",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee2077ffe24166b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9c78d6f6fa73f8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6523ced6025fc3b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "032c1ce2154cc8b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "15084ed78160da6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ed3bd5a6afe02b14",
+  "lastOpenFiles": [
+    "SFML/README.md",
+    "().md",
+    "SFML/1. Вступление и установка графической библиотеки SFML в C++/Что такое SFML, Установка SFML в C++.md",
+    "0. Начало работы с OpenGL/01. Что такое OpenGL.md",
+    "README.md",
+    "SFML/3. Спрайты и текстуры в C++ и SFML",
+    "Untitled",
+    "SFML/2. Создание простых геометрических фигур в C++ и SFML",
+    "SFML/1. Вступление и установка графической библиотеки SFML в C++",
+    "SFML",
+    "6. Дополнительные уроки",
+    "5. PBR в OpenGL",
+    "4. Продвинутое освещение в OpenGL",
+    "3. Продвинутый OpenGL",
+    "2. Загрузка моделей в OpenGL",
+    "Untitled.md"
+  ]
+}
