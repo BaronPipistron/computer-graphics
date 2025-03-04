@@ -11,10 +11,14 @@
             "id": "ed2e00676fc80d43",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SFML/3. Спрайты и текстуры в C++ и SFML/Спрайты и текстуры в C++ SFML.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Спрайты и текстуры в C++ SFML"
             }
           }
         ]
@@ -160,6 +164,7 @@
   },
   "active": "ed2e00676fc80d43",
   "lastOpenFiles": [
+    "SFML/4. Отметил для себя пока писал игры.md",
     "OpenGL/README.md",
     "README.md",
     "SFML/3. Спрайты и текстуры в C++ и SFML/src/textures.cpp",
